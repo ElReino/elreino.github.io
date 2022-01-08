@@ -1,0 +1,26 @@
+
+        Nombre del equipo: ÑKLAKÑLSDKLÑAS
+        Abreviación: ÑKLAKÑLSDKLÑAS
+
+        Datos del Capitán
+            Nombre: KJLASKJLD
+            Discord: ÑALDÑKLQÑWL
+            Edad: 12
+            Twitch: KLÑQWKLDÑQW
+
+        Datos del Segundo Jugador:
+            Nombre: LÑKQASDKÑQW
+            Discord: ÑKLAKÑLSDKLÑAS
+        
+        Datos del Tercer Jugador:
+            Nombre: ÑKLAKÑLSDKLÑAS
+            Discord: ÑKLAKÑLSDKLÑAS
+
+        Datos del Cuarto Jugador:
+            Nombre: ÑKLAKÑLSDKLÑAS
+            Discord: ÑKLAKÑLSDKLÑAS
+        
+        Datos del Suplente:
+            Nombre: ÑKLAKÑLSDKLÑAS
+            Discord: ÑKLAKÑLSDKLÑAS
+    
